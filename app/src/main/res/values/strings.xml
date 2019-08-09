@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NetMovie</string>
+    <string name="rating">Rating</string>
+    <string name="duration">Duration</string>
+    <string name="overview">Overview</string>
+    <string name="change_setting">Change Language Setting</string>
+    <string name="detail">Detail</string>
+    <string name="movie_text">Movie</string>
+    <string name="tvshow_text">TV Show</string>
+
+
+    <string name="desc_movie1">A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.</string>
+</resources>

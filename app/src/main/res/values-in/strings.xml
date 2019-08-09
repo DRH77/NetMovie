@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NetMovie</string>
+    <string name="rating">Peringkat</string>
+    <string name="duration">Durasi</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="change_setting">Ubah Pengaturan Bahasa</string>
+    <string name="detail">Rincian</string>
+    <string name="movie_text">Film</string>
+    <string name="tvshow_text">Acara TV</string>
+
+    <string name="desc_movie1">Sekelompok penjaga yang dikenal secara informal sebagai "The Boys" berangkat untuk menjatuhkan superhero yang korup dengan tidak lebih dari grit kerah biru dan kesediaan untuk melawan yang kotor.</string>
+</resources>
